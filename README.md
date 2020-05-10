@@ -1,2 +1,2 @@
-# javaproject
+# demorepo
 first git project
